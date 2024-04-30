@@ -1,51 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0045)https://lmpixels.com/wp/leven-wp/dark/resume/ 
-/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
-background: rgb(69,72,77); /* Old browsers */
-background: -moz-linear-gradient(top, rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 );-->
 <html lang="en-US" class=" js no-touch cssanimations csstransforms csstransforms3d csstransitions"><head><meta charset="windows-1252">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link rel="profile" href="https://gmpg.org/xfn/11">
 <title>Resume &mdash; Tebogo Thale</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-<!--<link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Alex Smith » Feed" href="https://lmpixels.com/wp/leven-wp/dark/feed/">
-<link rel="alternate" type="application/rss+xml" title="Alex Smith » Comments Feed" href="https://lmpixels.com/wp/leven-wp/dark/comments/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lmpixels.com\/wp\/leven-wp\/dark\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			/*! This file is auto-generated */
-			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="./wp-emoji-release.min.js" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="css-1-css" href="./753b35d8-1585890976.min.css" type="text/css" media="all">no difference
-<link rel="stylesheet" id="leven-google-fonts-css" href="./css" type="text/css" media="all">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lmpixels.com/wp/leven-wp/dark/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lmpixels.com/wp/leven-wp/dark/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.4.1">
-<link rel="canonical" href="https://lmpixels.com/wp/leven-wp/dark/resume/">
-<link rel="shortlink" href="https://lmpixels.com/wp/leven-wp/dark/?p=171">
-<link rel="alternate" type="application/json+oembed" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flmpixels.com%2Fwp%2Fleven-wp%2Fdark%2Fresume%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flmpixels.com%2Fwp%2Fleven-wp%2Fdark%2Fresume%2F&amp;format=xml">
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>-->
 <link rel="stylesheet" id="css-0-css" href="./tthale.css" type="text/css" media="all">
-<!--<link rel="stylesheet" id="leven-customization-css" href="./customization.css.php" type="text/css" media="all">-->
 <script type="text/javascript" src="./01ef1fff-1585891002.min.js"></script>
 <link rel="icon" href="./slides/tthale.ico" sizes="192x192">
 <style data-styles="leven-theme-columns-css" type="text/css">
@@ -105,8 +65,8 @@ img.emoji {
             <div class="header-content clearfix">
                 <!-- Text Logo -->
                 <div class="text-logo">
-                    <a href="./tthale (2).jpg" class="lightbox">
-                        <div class="logo-symbol"><img src="./tthale (2).jpg" style="border-radius: 90px;"></div>
+                    <a href="./images/tthale (2).jpg" class="lightbox">
+                        <div class="logo-symbol"><img src="./images/tthale (2).jpg" style="border-radius: 90px;"></div>
                         <div class="logo-text">Tebogo <span>Thale</span></div>
                     </a>
                 </div>
@@ -246,7 +206,7 @@ $files = scanDir::scan('./slides', $file_ext);
                 </ul>
             </div>
             <div class="footer-copyrights">
-                <p>&COPY; 2020 All rights reserved.</p>
+                <p>&COPY; 2024 All rights reserved.</p>
             </div>
         </footer>
         <!-- /Footer-->
