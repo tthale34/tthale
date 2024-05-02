@@ -12,10 +12,10 @@
                         <h5 class="item-period ">Info</h5>
                         <span class="item-company">Tebogo Thale</span>
                         <h4 class="item-title">Software Developer</h4>
-<p>I've been in the I.T industry for the past 10 years as a Software Developer, and in my roles as a Software Developer 
+<p class="paragraphs">I've been in the I.T industry for the past 14 years as a Software Developer, and in my roles as a Software Developer 
 I gained vast experience with multiple technologies and tool sets that have equiped to advance in any position granted once the opportunity arises.</p>
 <p>I have been in the service delivery environment from the beginning of my career in 2010, supporting, 
-maintaining and developing on a ITSM application name BMC Remedy. (What is BMC Remedy).</p>
+maintaining and developing on a ITSM application called BMC Remedy.</p>
 <p>As a BMC Remedy Developer at Standard Bank South Africa my role entailed creating or enhancing back and front-end functionality based on the requirement requested. 
 Maintain current integrations with other applications where it be through Web Services, Java API, or ftp file transfer and 
 processing of data within those files.</p>
@@ -153,7 +153,7 @@ I have great problem solving skills which has seen me resolve some of the comple
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB</h4>
+                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-sql" data-value="90" data-color="#007ced" class="skill-container">
