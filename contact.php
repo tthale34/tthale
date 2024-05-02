@@ -125,7 +125,7 @@
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB</h4>
+                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-sql" data-value="90" data-color="#007ced" class="skill-container">
@@ -197,7 +197,7 @@
             <div id="col_inner_id-5eb6b660ec978" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
                 <div class="fw-divider-space" style="padding-top: 20px;"></div>
                 <div class="block-title">
-                    <h1>Click <a href="./TEBOGO_THALE_CV.pdf">Here</a> to download Curriculum Vitae</h1>
+                    <h1>Click <a href="./documents/TEBOGO_THALE_CV.pdf" target="_blank">Here</a> to download Curriculum Vitae</h1>
                 </div>
             </div>
         </div>

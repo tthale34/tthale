@@ -225,7 +225,7 @@ I have great problem solving skills which has seen me resolve some of the comple
             <div id="col_inner_id-5eb6b660ec978" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
                 <div class="fw-divider-space" style="padding-top: 20px;"></div>
                 <div class="block-title">
-                    <h1>Click <a href="./TEBOGO_THALE_CV.pdf">Here</a> to download Curriculum Vitae</h1>
+                    <h1>Click <a href="./documents/TEBOGO_THALE_CV.pdf" target="_blank">Here</a> to download Curriculum Vitae</h1>
                 </div>
             </div>
         </div>

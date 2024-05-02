@@ -77,7 +77,7 @@ o	Provide client with foundation data recommendations.
 o	Upload Foundation data using Remedy Data Management tool.
 o	Resolve 9.1.02 Plugin issue on the Service Request Entry.
 o	Build, update and deploy Service Requests.
-o	Smart Reporting – Configure the on-boarding and content import.
+o	Smart Reporting ï¿½ Configure the on-boarding and content import.
 o	Provide BMC Remedy Smart Reporting administration documentation.
 o	LDAP Configuration.
 o	Implement BMC Remedy SSO installation and configuration.
@@ -279,10 +279,10 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
     <div class="row">
         <div class=" col-xs-12 col-sm-6 ">
             <div id="col_inner_id-5eb6b660ecd32" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
-                <a href="./ars_cert.jpg" class="lightbox">
+                <a href="./images/ars_cert.jpg" class="lightbox">
                     <div class="certificate-item clearfix">
                         <div class="certi-logo">
-                            <img src="./ars_cert.jpg" alt="" style="max-height: 100px;">
+                            <img src="./images/ars_cert.jpg" alt="" style="max-height: 100px;">
                         </div>
                         <div class="certi-content">
                             <div class="certi-title">
@@ -304,10 +304,10 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
         </div>
         <div class=" col-xs-12 col-sm-6 ">
             <div id="col_inner_id-5eb6b660ecf4e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
-                <a href="./Diploma.jpg" class="lightbox">
+                <a href="./images/Diploma.jpg" class="lightbox">
                     <div class="certificate-item clearfix">
                         <div class="certi-logo">
-                            <img src="./Diploma.jpg" alt="" style="max-height: 100px;">
+                            <img src="./images/Diploma.jpg" alt="" style="max-height: 100px;">
                         </div>
                         <div class="certi-content">
                             <div class="certi-title">
@@ -318,6 +318,56 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
                             </div>
                             <div class="certi-date">
                                 <span>July 2013</span>
+                            </div>
+                            <div class="certi-company">
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class=" col-xs-12 col-sm-6 ">
+            <div id="col_inner_id-5eb6b660ecf4e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+                <a href="./images/AWS_CERT.jpg" class="lightbox">
+                    <div class="certificate-item clearfix">
+                        <div class="certi-logo">
+                            <img src="./images/AWS_CERT.jpg" alt="" style="max-height: 100px;">
+                        </div>
+                        <div class="certi-content">
+                            <div class="certi-title">
+                                <h4>AWS Cloud Practitioner Essentials</h4>
+                            </div>
+                            <div class="certi-id">
+                                <!--<span>Membership ID: XXXX</span>-->
+                            </div>
+                            <div class="certi-date">
+                                <span>July 2020</span>
+                            </div>
+                            <div class="certi-company">
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class=" col-xs-12 col-sm-6 ">
+            <div id="col_inner_id-5eb6b660ecf4e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+                <a href="./images/BI_CERT.jpg" class="lightbox">
+                    <div class="certificate-item clearfix">
+                        <div class="certi-logo">
+                            <img src="./images/BI_CERT.jpg" alt="" style="max-height: 100px;">
+                        </div>
+                        <div class="certi-content">
+                            <div class="certi-title">
+                                <h4>Business Intellence Developer: Oracle Course</h4>
+                            </div>
+                            <div class="certi-id">
+                                <!--<span>Membership ID: XXXX</span>-->
+                            </div>
+                            <div class="certi-date">
+                                <span>July 2021</span>
                             </div>
                             <div class="certi-company">
                                 <span></span>
@@ -435,7 +485,7 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB</h4>
+                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-sql" data-value="90" data-color="#007ced" class="skill-container">
@@ -507,7 +557,7 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
             <div id="col_inner_id-5eb6b660ec978" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
                 <div class="fw-divider-space" style="padding-top: 20px;"></div>
                 <div class="block-title">
-                    <h1>Click <a href="./TEBOGO_THALE_CV.pdf">Here</a> to download Curriculum Vitae</h1>
+                    <h1>Click <a href="./documents/TEBOGO_THALE_CV.pdf" target="_blank">Here</a> to download Curriculum Vitae</h1>
                 </div>
             </div>
         </div>
