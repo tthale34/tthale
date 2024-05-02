@@ -329,10 +329,10 @@ o	Design, develop and unit-test Remedy ARS program code, functions and scripts t
         </div>
         <div class=" col-xs-12 col-sm-6 ">
             <div id="col_inner_id-5eb6b660ecf4e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
-                <a href="./images/AWS_CERT.jpg" class="lightbox">
+                <a href="./images/AWS_CERT.JPG" class="lightbox">
                     <div class="certificate-item clearfix">
                         <div class="certi-logo">
-                            <img src="./images/AWS_CERT.jpg" alt="" style="max-height: 100px;">
+                            <img src="./images/AWS_CERT.JPG" alt="" style="max-height: 100px;">
                         </div>
                         <div class="certi-content">
                             <div class="certi-title">
