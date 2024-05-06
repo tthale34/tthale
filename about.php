@@ -120,23 +120,16 @@ I have great problem solving skills which has seen me resolve some of the comple
                     </div>
                     <div class="clearfix">
                         <h4>MVC</h4>
-                        <div class="skill-value">70%</div>
+                        <div class="skill-value">90%</div>
                     </div>
-                    <div id="skill-mvc" data-value="70" data-color="#007ced" class="skill-container">
-                        <div class="skill-percentage"></div>
-                    </div>
-                    <div class="clearfix">
-                        <h4>MVC</h4>
-                        <div class="skill-value">70%</div>
-                    </div>
-                    <div id="skill-mvc" data-value="70" data-color="#007ced" class="skill-container">
+                    <div id="skill-mvc" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
                         <h4>Bootstrap Framework</h4>
-                        <div class="skill-value">70%</div>
+                        <div class="skill-value">90%</div>
                     </div>
-                    <div id="skill-bootstrap" data-value="70" data-color="#007ced" class="skill-container">
+                    <div id="skill-bootstrap" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                 </div>
@@ -203,16 +196,16 @@ I have great problem solving skills which has seen me resolve some of the comple
                     </div>
                     <div class="clearfix">
                         <h4>TypeScript (Node.JS / Angular JS / React JS/ Express JS)</h4>
-                        <div class="skill-value">60%</div>
+                        <div class="skill-value">90%</div>
                     </div>
-                    <div id="skill-Type" data-value="60" data-color="#007ced" class="skill-container">
+                    <div id="skill-Type" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
                         <h4>RestFul API's</h4>
-                        <div class="skill-value">60%</div>
+                        <div class="skill-value">90%</div>
                     </div>
-                    <div id="skill-Restful" data-value="60" data-color="#007ced" class="skill-container">
+                    <div id="skill-Restful" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                 </div>

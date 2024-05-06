@@ -82,8 +82,8 @@
         <li id="menu-item-28" class="<?php if(isset($_GET['page']) && $_GET['page'] == "portfolio"){echo 'current-menu-item';}?> menu-item">
             <a href="./?page=portfolio" data-hover="1">Portfolio</a>
             <ul class="sub-menu">
-                <li id="menu-item-33" class="menu-item"><a href="http://lemogamedia.co.za" data-hover="1">Lemoga Media</a></li>
-                <li id="menu-item-33" class="menu-item"><a href="http://lemogamedia.co.za/MyStore" data-hover="1">MyStore</a></li>
+                <!-- <li id="menu-item-33" class="menu-item"><a href="" data-hover="1">Lemoga Media</a></li> -->
+                <li id="menu-item-33" class="menu-item"><a href="http://tthale.co.za/MyStore" data-hover="1">MyStore</a></li>
             </ul>
         </li>
         <li id="menu-item-191" class="<?php if(isset($_GET['page']) && $_GET['page'] == "contact"){echo 'current-menu-item';}?> menu-item">
@@ -105,7 +105,7 @@
                     <div class="page-title">
                         <h1>Curriculum Vitae</h1>
                         <div class="page-subtitle">
-                            <h4> 8 Years of Experience</h4>
+                            <h4>14 Years of Experience</h4>
                         </div>
                     </div>
                     <!--/Title-->
