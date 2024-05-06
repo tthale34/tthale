@@ -130,7 +130,7 @@ o Provide client with foundation data recommendations.
 o Upload Foundation data using Remedy Data Management tool.
 o Resolve 9.1.02 Plugin issue on the Service Request Entry.
 o Build, update and deploy Service Requests.
-o Smart Reporting � Configure the on-boarding and content import.
+o Smart Reporting - Configure the on-boarding and content import.
 o Provide BMC Remedy Smart Reporting administration documentation.
 o LDAP Configuration.
 o Implement BMC Remedy SSO installation and configuration.

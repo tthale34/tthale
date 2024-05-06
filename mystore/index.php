@@ -861,7 +861,7 @@ endwhile;
     <!-- Social icons -->
     <!--Copyright-->
     <div class="footer-copyright py-3">
-      © 2020 Copyright:
+      © 2024 Copyright:
       <a href=""> tthale.co.za </a>
     </div>
     <!--/.Copyright-->
