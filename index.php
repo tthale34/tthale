@@ -129,7 +129,7 @@ $files = scanDir::scan('./slides', $file_ext);
     <div class="carousel-inner" role="listbox">
       <?php for($i = 0; $i < count($files); $i++):?>
       <div class="carousel-item <?php if($i == 0){ echo 'active';}?>">
-        <div class="view" style="min-height: 450px; border-radius: 20px;background-image: url('<?php echo preg_replace('/\\\/','/',$files[$i]);?>'); background-repeat: no-repeat; background-size: cover;">
+        <div class="view" style="height: 300px; border-radius: 20px;background-image: url('<?php echo preg_replace('/\\\/','/',$files[$i]);?>'); background-repeat: no-repeat; background-size: cover;">
           <!-- Mask & flexbox options-->
           <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
             <!-- Content -->
