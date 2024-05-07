@@ -195,13 +195,13 @@ $files = scanDir::scan('./slides', $file_ext);
             <div class="footer-social">
                 <ul class="footer-social-links">
                     <li>
-                        <a href="" target="_blank">Twitter</a>
+                        <a href="" target="_blank">tthale</a>
                     </li>
                     <li>
-                        <a href="" target="_blank">Facebook</a>
+                        <a href="https://www.facebook.com/tthale34" target="_blank">Facebook</a>
                     </li>
                     <li>
-                        <a href="" target="_blank">Instagram</a>
+                        <a href="https://www.instagram.com/tthale1/" target="_blank">Instagram</a>
                     </li>
                 </ul>
             </div>

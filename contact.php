@@ -126,16 +126,16 @@
                     </div>
                     <div class="clearfix">
                         <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
-                        <div class="skill-value">80%</div>
+                        <div class="skill-value">100%</div>
                     </div>
-                    <div id="skill-sql" data-value="90" data-color="#007ced" class="skill-container">
+                    <div id="skill-sql" data-value="100" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
                         <h4>Java Programming</h4>
-                        <div class="skill-value">60%</div>
+                        <div class="skill-value">80%</div>
                     </div>
-                    <div id="skill-java" data-value="60" data-color="#007ced" class="skill-container">
+                    <div id="skill-java" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
