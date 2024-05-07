@@ -448,70 +448,70 @@ o Design, develop and unit-test Remedy ARS program code, functions and scripts t
             <div id="col_inner_id-5eb6b660ed526" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
                 <div id="skills-5eb6b660ed75a" class="skills-info skills-first-style">
                     <div class="clearfix">
-                        <h4 style="color:#fff;">BMC Remedy Development</h4>
+                        <h4>BMC Remedy Development</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-100" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">ITIL V3</h4>
+                        <h4>ITIL V3</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-itil" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Data Modelling</h4>
+                        <h4>Data Modelling</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-data" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Data Mapping</h4>
+                        <h4>Data Mapping</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-data" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Shell Scripting </h4>
+                        <h4>Shell Scripting </h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-shell" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Perl scripting</h4>
+                        <h4>Perl scripting</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-perl" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">UI/UX Design</h4>
+                        <h4>UI/UX Design</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-ux" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Adobe Design(Photoshop, XD, Illustrator) </h4>
+                        <h4>Adobe Design(Photoshop, XD, Illustrator) </h4>
                         <div class="skill-value">50%</div>
                     </div>
                     <div id="skill-adobe" data-value="50" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">MVC</h4>
+                        <h4>MVC</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-mvc" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Bootstrap Framework</h4>
+                        <h4>Bootstrap Framework</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-bootstrap" data-value="90" data-color="#007ced" class="skill-container">
@@ -524,70 +524,70 @@ o Design, develop and unit-test Remedy ARS program code, functions and scripts t
             <div id="col_inner_id-5eb6b660ed840" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
                 <div id="skills-5eb6b660eda3c" class="skills-info skills-first-style">
                     <div class="clearfix">
-                        <h4 style="color:#fff;">SQL Development(Procedures,triggers,functions,views,tables)</h4>
+                        <h4>SQL Development(Procedures,triggers,functions,views,tables)</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-sql" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
+                        <h4>PL/SQL / MySQL / MS SQL / MongoDB / MariaDB / PostgreSQL</h4>
                         <div class="skill-value">100%</div>
                     </div>
                     <div id="skill-sql" data-value="100" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">Java Programming</h4>
+                        <h4>Java Programming</h4>
                         <div class="skill-value">80%</div>
                     </div>
                     <div id="skill-java" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">VB (Virtual Basic)</h4>
+                        <h4>VB (Virtual Basic)</h4>
                         <div class="skill-value">50%</div>
                     </div>
                     <div id="skill-60" data-value="50" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">PHP Programming</h4>
+                        <h4>PHP Programming</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-php" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">JavaScript / JQuery</h4>
+                        <h4>JavaScript / JQuery</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-js" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">HTML/XHTML/HTML 5</h4>
+                        <h4>HTML/XHTML/HTML 5</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-html" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">CSS / CSS3 / LESS</h4>
+                        <h4>CSS / CSS3 / LESS</h4>
                         <div class="skill-value">95%</div>
                     </div>
                     <div id="skill-css" data-value="95" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">TypeScript (Node.JS / Angular JS / React JS/ Express JS)</h4>
+                        <h4>TypeScript (Node.JS / Angular JS / React JS/ Express JS)</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-Type" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
-                        <h4 style="color:#fff;">RestFul API's</h4>
+                        <h4>RestFul API's</h4>
                         <div class="skill-value">90%</div>
                     </div>
                     <div id="skill-Restful" data-value="90" data-color="#007ced" class="skill-container">
