@@ -71,23 +71,23 @@
                     </div>
                     <div class="clearfix">
                         <h4>Shell Scripting </h4>
-                        <div class="skill-value">75%</div>
+                        <div class="skill-value">90%</div>
                     </div>
-                    <div id="skill-shell" data-value="75" data-color="#007ced" class="skill-container">
+                    <div id="skill-shell" data-value="90" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
                         <h4>Perl scripting</h4>
-                        <div class="skill-value">55%</div>
+                        <div class="skill-value">80%</div>
                     </div>
-                    <div id="skill-perl" data-value="55" data-color="#007ced" class="skill-container">
+                    <div id="skill-perl" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
                         <h4>UI/UX Design</h4>
-                        <div class="skill-value">60%</div>
+                        <div class="skill-value">80%</div>
                     </div>
-                    <div id="skill-ux" data-value="60" data-color="#007ced" class="skill-container">
+                    <div id="skill-ux" data-value="80" data-color="#007ced" class="skill-container">
                         <div class="skill-percentage"></div>
                     </div>
                     <div class="clearfix">
