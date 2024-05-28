@@ -1,0 +1,48 @@
+/* Layout Properties */
+#main_header {
+    top: 18px;
+    left: 18px;
+    width: 1564px;
+    height: 72px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 70px;
+    opacity: 1;
+}
+#header_image {
+    /* Layout Properties */
+    top: 30px;
+    left: 50px;
+    width: 211px;
+    height: 48px;
+    /* UI Properties */
+    background: transparent url('./images/TestLogo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#overview_image {
+    /* Layout Properties */
+    top: 46px;
+    left: 473px;
+    width: 16px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent url('images/home_FILL0_wght300_GRAD0_opsz24.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#overview_text {
+    /* Layout Properties */
+    top: 45px;
+    left: 498px;
+    width: 63px;
+    height: 19px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-14)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-manrope);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-072635);
+    text-align: left;
+    font: normal normal bold 14px/19px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}

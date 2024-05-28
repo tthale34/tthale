@@ -482,7 +482,7 @@ header,
 </div>
 <!--/Grid row-->
 <?php }catch (\Throwable $th) {
-            echo '<h5 class="red-text"><strong>'.$th->getMessage().'.</strong> Notification has been sent to administrators to resolve the issue, we apologies for the</h5>';
+            echo '<h5 class="red-text"><strong>'.$th->getMessage().' - '.$th->getTace().'.</strong>  has been sent to administrators to resolve the issue, we apologies for the</h5>';
           }?>
 </div>
         <?php elseif(isset($_GET['action']) && $_GET['action'] === "todolist"):?>
@@ -807,7 +807,12 @@ endwhile;
                 <?php endwhile;?>
           </div>
           <?php }catch (\Throwable $th) {
-            echo '<h5 class="red-text"><strong>'.$th->getMessage().'.</strong> Notification has been sent to administrators to resolve the issue, we apologies for the</h5>';
+            if ($th->getCode() == 1045) {
+              # Create user and DB
+              echo 'Create user and DB: code'.$th->getCode();
+            } else {
+              echo '<h5 class="red-text"><strong>'.$th->getMessage().' - '.$th->getTrace().' </strong> Notification has been sent to administrators to resolve the issue, we apologies for the</h5>';
+            }
           }
       endif;?>
           <!--/Display items-->
