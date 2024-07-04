@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <link rel="stylesheet"
+          href=
+"https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <script src=
+"https://code.jquery.com/jquery-3.1.1.min.js">
+    </script>
+    <script src=
+"https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js">
+    </script>
+</head> 
+<body>
+    <center>
+        <div class="ui container">
+            <h1 style="color:green;">
+                GeeksforGeeks
+            </h1>
+            <h3>Semantic-UI Dropdown Multiple Search Selection Type</h3>
+            <select class="ui fluid search dropdown"
+                    multiple="" onchange="console.log(this.value);">
+                <option value="">Company Name</option>
+                <option value="GEEKS">GeeksforGeeks</option>
+                <option value="APPLE">Apple</option>
+                <option value="AMAZON">Amazon</option>
+            </select>
+        </div>
+        <script>
+            $('.ui.dropdown').dropdown();
+        </script>
+    </center>
+</body> 
+</html>
