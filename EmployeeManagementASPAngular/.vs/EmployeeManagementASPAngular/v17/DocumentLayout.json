@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\model\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\model\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\migrations\\manager\\20240711183007_manager table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\migrations\\manager\\20240711183007_manager table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\migrations\\20240711031525_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\migrations\\20240711031525_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|c:\\wamp64\\www\\tthale\\employeemanagementaspangular\\employeemanagementaspangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7C98F9F-4B7C-4A32-8DB8-3882C11F3D32}|EmployeeManagementASPAngular\\EmployeeManagementASPAngular.csproj|solutionrelative:employeemanagementaspangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240712014840_Add Column.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\20240712014840_Add Column.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:48:40.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Controllers\\ManagersController.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Controllers\\ManagersController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:36:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Model\\Employee.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:10:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Model\\Manager.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\Manager.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Model\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:15:25.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Program.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:00:23.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:33:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerContext.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\ManagerContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Model\\ManagerContext.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\ManagerContext.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Model\\ManagerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:18:19.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240712014745_Update Manager.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240712014745_Update Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:47:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240711202403_Update Manager again.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711202403_Update Manager again.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:24:04.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240711183423_Update Manager table.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183423_Update Manager table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:34:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240711183007_Manager table.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183007_Manager table.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183007_Manager table.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183007_Manager table.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\Manager\\20240711183007_Manager table.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:30:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240711031525_First Migration.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\20240711031525_First Migration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Migrations\\20240711031525_First Migration.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Migrations\\20240711031525_First Migration.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Migrations\\20240711031525_First Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:15:26.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\appsettings.json",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T03:03:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementASPAngular\\Model\\EmployeeContext.cs",
+              "ToolTip": "C:\\wamp64\\www\\tthale\\EmployeeManagementASPAngular\\EmployeeManagementASPAngular\\Model\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeManagementASPAngular\\Model\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:52:03.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

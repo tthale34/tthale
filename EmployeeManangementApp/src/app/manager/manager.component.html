@@ -1,0 +1,24 @@
+<div class="row mt-5">
+    <div class="col-6">
+        <app-manager-form />
+    </div>
+    <div class="col-6">
+        <div class="fw-bold"><h4>Managers</h4></div>
+        <ul class="list-group">
+            <li class="list-group-item d-flex justify-content-between
+            align-items-start mb-2 border px-4 py-3 rounded-3" *ngFor="let mng of service.listManager">
+                <div class="flex-grow-1 mouse-hover" 
+                    (click)="loadManagerEdit(mng)">
+                    <div class="fw-bold">{{mng.managerName}} {{mng.managerSurname}}</div>
+                    <div>{{mng.managerDepartment}}</div>
+                    <div class="fw-bold"></div>                    
+                </div>
+                <span class="text-secondary">
+                    <i class="fa-solid fa-trash-can fa-lg mouse-hover" (click)="deleteManager(mng.managerId,mng.managerName)">                        
+                    </i>
+                </span>
+            </li>
+        </ul>
+
+    </div>
+</div>

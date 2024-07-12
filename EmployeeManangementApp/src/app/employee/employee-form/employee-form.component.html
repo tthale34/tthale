@@ -1,0 +1,43 @@
+<form #form="ngForm" (submit)="onSubmit(form)"[class.submitted]="service.formSubmitted" novalidate autocomplete="off">
+    <input type="hidden" name="employeeId" [value]="service.formData.employeeId">
+    
+    <div class="md-3">
+        <label></label>
+        <input class="form-control form-control-lg"
+        placeholder="Name"
+        #employeeName="ngModel" name="employeeName"
+        [(ngModel)]="service.formData.employeeName" required>
+    </div>
+    <div class="md-3">
+        <label></label>
+        <input class="form-control form-control-lg"
+        placeholder="Surname"
+        #employeeSurname="ngModel" name="employeeSurname"
+        [(ngModel)]="service.formData.employeeSurname" required>
+    </div>
+    <div class="md-3">
+        <label></label>
+        <input class="form-control form-control-lg"
+        placeholder="Position"
+        #employeePosition="ngModel" name="employeePosition"
+        [(ngModel)]="service.formData.employeePosition" required>
+    </div>
+    <div class="row">
+        <div class="md-3 col-6">
+            <label></label>
+            <select class="form-control form-control-lg"
+            #employeeManagerId="ngModel" name="employeeManagerId"
+            [(ngModel)]="service.formData.employeeManagerId">
+                <option value="NULL" selected>Select Manager</option>
+                <option *ngFor="let mng of service.listManagers" 
+                value="{{mng.managerId}}">{{mng.managerName}} {{mng.managerSurname}}</option>
+            </select>
+        </div>
+    </div>
+    <br>
+    <div class="d-grid">
+        <button class="btn btn-lg btn-success">
+            Submit
+        </button>
+    </div>
+</form>
